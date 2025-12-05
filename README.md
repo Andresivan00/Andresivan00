@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi, my name is Iván Andrés Olivera </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br><br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-kunalraghav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalraghav/)](https://www.linkedin.com/in/kunalraghav/) [![Medium Badge](https://img.shields.io/badge/-@KunalRaghav-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@KunalRaghav/)](https://medium.com/@KunalRaghav/)
+[![Linkedin Badge](https://img.shields.io/badge/-ivan-olivera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-olivera/)](https://www.linkedin.com/in/ivan-olivera/) [![Medium Badge](https://img.shields.io/badge/-@ivan-olivera-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@KunalRaghav/)](https://medium.com/@KunalRaghav/)
 [![Gmail Badge](https://img.shields.io/badge/-ivanoliverat@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ivanoliverat@gmail.com)](mailto:ivanoliverat@gmail.com)
 
 

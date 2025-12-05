@@ -7,6 +7,11 @@
 - :boom: You can visit [MY WEBSITE]([https://cutt.ly/Ahmed_Hossam_Website](https://andresivan00.github.io/Portafolio-en-Github/)).
 <br>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+  </a>
+</p>
 
 <!--
 **Andresivan00/Andresivan00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

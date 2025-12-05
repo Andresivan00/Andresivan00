@@ -1,9 +1,7 @@
 <h1 align="center"><b>Hi, my name is Iván Andrés Olivera </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br><br>
 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics] at [Suez Canal University](http://suez.edu.eg/ar/).
 - :University Carrer: I am currently studying at [Software Development Technician] at [Universidad de la Costa]([https://www.cuc.edu.co/desarrollo-de-software]).
-- :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](----).

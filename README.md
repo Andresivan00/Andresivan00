@@ -7,7 +7,7 @@
 - :student: I am currently studying at [Software Development Technician] at [Universidad de la Costa]([https://www.cuc.edu.co/desarrollo-de-software]).
 - :computer: I am a competitive programmer in `Backend` and `Frontend` projects.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](----).
-- :boom: You can visit [MY WEBSITE](https://andresivan00.github.io/Portafolio-en-Github/).
+- :boom: You can visit [MY WEBSITE](https://andresivan00.github.io/Portafolio-en-Github/)/[MI SITIO WEB](https://andresivan00.github.io/Portafolio-en-Github-en-Espanol/).
 <br>
 
 <div id="user-content-toc">

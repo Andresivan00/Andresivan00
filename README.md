@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,figma,html,js,py,wordpress,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,figma,html,js,py,wordpress,vscode,react,vite,mysql" alt="Mis habilidades" />
   </a>
 </p>
 

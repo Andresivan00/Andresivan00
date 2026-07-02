@@ -41,18 +41,6 @@
   </a>
 </p>
 
-<!-- Tecnologías y Herramientas -->
-<p align="center">
-  <a href="https://react.dev/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="50" width="50" />
-  </a>
-  <a href="https://vitejs.dev/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" height="50" width="50" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" height="50" width="50" />
-  </a>
-</p>
 
 <!--
 **Andresivan00/Andresivan00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
